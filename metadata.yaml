@@ -13,6 +13,8 @@ covers:
 - cover_type: archival
   image_path: 44558-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44558#The-Wonderful-Story-of-Blue-Beard-and-His-Last-Wife
 gutenberg_issued: '2014-01-01'
 gutenberg_type: Text
 identifiers:
